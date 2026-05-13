@@ -1,7 +1,7 @@
 # Big_data_analytics_project
 The project analyzes 27,481 Twitter posts using Pandas and PySpark. It includes dataset loading from Kaggle, sentiment distribution analysis, text cleaning with regex and tokenization, and keyword extraction. Finally, Matplotlib visualizations highlight the top frequent words, revealing trends in positive, negative, and neutral sentiments.
 
-## **THE FOLLOWING ARE OF ALL THE TASKS PERFORMED IN THIS PROJECT :**
+## **THE FOLLOWING ARE THE DETAILS OF ALL THE TASKS PERFORMED IN THIS PROJECT :**
 
 ## 1. Data Acquisition & Environment Setup:
 The process begins by setting up the necessary tools and gathering the raw data.
