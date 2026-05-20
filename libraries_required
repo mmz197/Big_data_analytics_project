@@ -1,0 +1,8 @@
+pandas
+kagglehub
+os
+pyspark
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, lower, regexp_replace, explode, split
+from collections import Counter
+import matplotlib.pyplot
